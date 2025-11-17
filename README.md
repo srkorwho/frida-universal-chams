@@ -2,4 +2,4 @@
 name says it all
 
 
-idea/main creator : https://github.com/Scared1892/MetalChams-iOS/tree/main
+idea/main creator : https://github.com/Scared1892/MetalChams-iOS/
